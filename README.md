@@ -1,7 +1,11 @@
+Computer Science Portfolio
 Introduction:
 
 Highly motivated and result driven professional who is well versed in fast paced work environments as well as experiential learning in relationship-driven environments. I am currently changing from the field of child development to the computer science realm. I am working towards obtaining a second bachelor’s degree in Computer Science. I am very interested in finding opportunities to learn from others so I can obtain hands-on experience within this desired field of study. I am willing to accept summer internships or part time student positions. I am a quick learner and adaptable, so I pick up new skills and concepts easily. I began schooling at National University in the Computer Science program February 2022. Estimated graduation date is February 2025.
 
+Project 1: 
+Project 2: 
+Project 3: 
 SKILLS:
 •	Customer service 
 •	Early Childhood education and development
